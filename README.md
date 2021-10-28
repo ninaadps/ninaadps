@@ -1,4 +1,4 @@
-### Hey, I've learnt a bit of c++ and love CP, would also love to contribute to open source! 
+Hi, welcome to my GitHub. 
 
 <!--
 **ninaadps/ninaadps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
