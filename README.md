@@ -1,5 +1,5 @@
 [![](https://giffiles.alphacoders.com/214/214311.gif)]
-<h1 align="center">Hi 👋, I'm Ninaad P S</h1>
+<h1 align="center">Hey there, I'm Ninaad P S</h1>
 <h3 align="center">A passionate web developer and a competitive programmer from Bengaluru</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
@@ -8,10 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ninaad-p-s-825039211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ninaad-p-s-825039211" height="30" width="40" /></a>
-<a href="https://instagram.com/npshenoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="npshenoy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ninaadps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ninaadps" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/dwightkschrute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dwightkschrute" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ninaaddps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ninaaddps" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ninaadps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ninaadps" height="30" width="40" /></a>
 </p>
 
