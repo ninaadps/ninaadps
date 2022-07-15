@@ -1,4 +1,4 @@
-[![](https://giffiles.alphacoders.com/214/214311.gif)]
+
 <h1 align="center">Hey there, I'm Ninaad P S</h1>
 <h3 align="center">A passionate web developer and a competitive programmer from Bengaluru</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
